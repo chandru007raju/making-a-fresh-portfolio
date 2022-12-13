@@ -1,0 +1,7 @@
+---------Web Development------------
+1.VScode it has inbuilt intellisense
+2.React-JavaScript Framework." like react native-i.e is a mobile app platform"{virtual Dom}
+3.Django-python based framework.{web app framework}-quick development of API's and web applications[security]
+4.BootStrap {CSS Frameworks}[web sites dynamically]
+5. Yarn{Package manager}
+6.GitHub-a version control tool which uses git.{github Actions can be used in CI/CD[continues intigration & Deployment]. web site hosting.github has a web GUI and a local CLI}
